@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/compose-model-1652597501983.xml" value="0.23057432432432431" />
+        <entry key="../../../../layout/compose-model-1652597815670.xml" value="1.0" />
+        <entry key="../../../../layout/compose-model-1652598202111.xml" value="0.625" />
+        <entry key="../../../../layout/compose-model-1652599009848.xml" value="0.335" />
+        <entry key="../../../../layout/compose-model-1652601176335.xml" value="1.0" />
+        <entry key="../../../../layout/compose-model-1652601490484.xml" value="0.25" />
+        <entry key="../../../../layout/compose-model-1652603215257.xml" value="0.335" />
+        <entry key="../../../../layout/compose-model-1652603280644.xml" value="0.5" />
+        <entry key="../../../../layout/compose-model-1652605335934.xml" value="0.23057432432432431" />
+        <entry key="../../../../layout/compose-model-1652605897147.xml" value="0.23057432432432431" />
+        <entry key="../../../../layout/compose-model-1652606393502.xml" value="0.23057432432432431" />
+        <entry key="../../../../layout/compose-model-1652607209829.xml" value="0.28888888888888886" />
+        <entry key="../../../../layout/compose-model-1652607213648.xml" value="0.23057432432432431" />
+        <entry key="../../../../layout/compose-model-1652657536099.xml" value="0.34881756756756754" />
+        <entry key="../../../../layout/compose-model-1652686118161.xml" value="0.23057432432432431" />
+        <entry key="../../../../layout/compose-model-1652686836192.xml" value="0.23057432432432431" />
+        <entry key="../../../../layout/compose-model-1652688000009.xml" value="0.42314814814814816" />
+        <entry key="../../../../layout/compose-model-1652688733031.xml" value="0.42314814814814816" />
+        <entry key="../../../../layout/compose-model-1652689817740.xml" value="0.22972972972972974" />
+        <entry key="../../../../layout/compose-model-1652691486058.xml" value="0.22972972972972974" />
+        <entry key="../../../../layout/compose-model-1652693148495.xml" value="0.23057432432432431" />
+        <entry key="../../../../layout/compose-model-1652693689513.xml" value="0.33425925925925926" />
+        <entry key="../../../../layout/compose-model-1652694161986.xml" value="0.33425925925925926" />
+        <entry key="../../../../layout/compose-model-1652825133480.xml" value="0.33425925925925926" />
+        <entry key="../../../../layout/compose-model-1652826702950.xml" value="0.2179054054054054" />
+        <entry key="../../../../layout/compose-model-1653047114729.xml" value="0.375" />
+        <entry key="../../../../layout/compose-model-1653051211976.xml" value="0.1" />
+        <entry key="../../../../layout/compose-model-1653051802479.xml" value="0.42314814814814816" />
+        <entry key="../../../../layout/compose-model-1653163940786.xml" value="0.42314814814814816" />
+        <entry key="../../../../layout/compose-model-1653218060949.xml" value="0.42314814814814816" />
+        <entry key="../../../../layout/compose-model-1653219568701.xml" value="0.45" />
+        <entry key="../../../../layout/compose-model-1653225797937.xml" value="0.25" />
+        <entry key="app/src/main/java/com/segunfrancis/zooanimals/MainActivity.kt" value="0.3367088607594937" />
+        <entry key="app/src/main/java/com/segunfrancis/zooanimals/ui/general_views/ZooTopAppBar.kt" value="0.5518518518518518" />
+        <entry key="app/src/main/java/com/segunfrancis/zooanimals/ui/layout/details/AnimalDetails.kt" value="0.25" />
+        <entry key="app/src/main/java/com/segunfrancis/zooanimals/ui/layout/details/views/DetailItem.kt" value="0.22953586497890296" />
+        <entry key="app/src/main/java/com/segunfrancis/zooanimals/ui/layout/home/views/ZooAnimalItem.kt" value="0.335" />
+        <entry key="app/src/main/java/com/segunfrancis/zooanimals/util/views/ProgressIndicator.kt" value="0.21772151898734177" />
+        <entry key="app/src/main/java/com/segunfrancis/zooanimals/util/views/ZooTopAppBar.kt" value="0.5518518518518518" />
+        <entry key="app/src/main/res/drawable/ic_arrow_back.xml" value="0.298" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
